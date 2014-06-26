@@ -21,7 +21,7 @@ public class TestModule {
     }
 
     @Singleton
-    @Provides
+    @Provides()
     public HttpDownloader provideHttpDownloader() {
         return new HttpDownloaderStub();
     }

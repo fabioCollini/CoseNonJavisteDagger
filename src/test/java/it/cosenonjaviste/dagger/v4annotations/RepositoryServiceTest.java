@@ -1,7 +1,7 @@
 package it.cosenonjaviste.dagger.v4annotations;
 
 import it.cosenonjaviste.dagger.Repository;
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**

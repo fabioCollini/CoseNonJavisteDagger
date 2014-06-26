@@ -1,6 +1,7 @@
 package it.cosenonjaviste.dagger.v5downloader;
 
 import javax.inject.Inject;
+import javax.inject.Singleton;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -11,6 +12,7 @@ import java.net.URLConnection;
 /**
  * Created by fabiocollini on 31/12/13.
  */
+@Singleton
 public class HttpDownloader {
 
     @Inject

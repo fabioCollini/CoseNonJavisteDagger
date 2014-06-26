@@ -2,7 +2,6 @@ package it.cosenonjaviste.dagger.v6mock;
 
 import dagger.Module;
 import dagger.Provides;
-import it.cosenonjaviste.dagger.v3dagger.*;
 
 import javax.inject.Singleton;
 

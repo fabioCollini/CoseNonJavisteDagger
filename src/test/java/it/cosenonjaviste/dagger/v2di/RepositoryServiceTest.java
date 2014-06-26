@@ -1,7 +1,7 @@
 package it.cosenonjaviste.dagger.v2di;
 
 import it.cosenonjaviste.dagger.Repository;
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
